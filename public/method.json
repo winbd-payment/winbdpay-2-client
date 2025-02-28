@@ -1,0 +1,22 @@
+
+[
+    {
+        "img": "https://download.logo.wine/logo/BKash/BKash-Icon2-Logo.wine.png",
+        "title": "bkash",
+        "descrip": "try to make easy",
+        "id": 1
+    },
+    {
+        "img": "https://i.ibb.co/y8sFvHk/dutch-bangla-rocket-logo-png-seeklogo-317692-removebg-preview.png",
+        "title": "rocket",
+        "offer": "+15%",
+        "descrip": "its ok or not",
+        "id": 2
+    },
+    {
+        "img": "https://i.ibb.co/6tSvCYm/nagad-logo-png-seeklogo-355240-removebg-preview.png",
+        "title": "nogod",
+        "descrip": "may be work",
+        "id": 3
+    }
+]
